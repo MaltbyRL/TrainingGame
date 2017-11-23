@@ -21,7 +21,7 @@ can measure a new hire, against industry standard technology.
 "
 public string aPlusCert = "
 Modern techs in the information technology (IT) industry obtain an 'A+ certification' from CompTIA.
-Like most professions orginisations that hire PC techs
+Like most professions orginisations that hire PC techs will most likely look for these certifications to establish a baseline competency level for there new hires.
 "
 public string troubleshootingTheory = "
 1. Identify the problem:
@@ -46,7 +46,7 @@ public string troubleshootingTheory = "
 public string computers = "
  To eliminate the human part of human error in calculations,
  a ninteenth century mathamatician,
- Charles Babbage, setout to create a mechanical machine that would replace them.  
+ Charles Babbage, setout to create a mechanical machine that would replace them.
  By the mid twentieth century inventors were calling the large,
  working mechanical calculation machines they created computers.
 "
